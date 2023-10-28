@@ -1,0 +1,30 @@
+.odkud {
+    width:500px;
+    height: 25px;
+    border-radius: 20px;
+
+
+
+
+}
+.kam {
+    width:500px;
+    height: 25px;
+    border-radius: 20px;
+
+}
+.search {
+    background: chartreuse;
+    border-radius: 30px;
+
+}
+.background {
+    background-image:url("pexels-juan-pablo-serrano-arenas-1242348.jpg") ;
+    background-repeat: no-repeat;
+
+}
+input, button{
+    display: block;
+    margin: 10px auto;
+}
+
